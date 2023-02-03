@@ -1,7 +1,7 @@
 {
   "name": "sunnyside",
   "version": "0.1.0",
-  "homepage": "https://janm2001.github.io/sunnyside",
+  "homepage": "https://janm2001.github.io/Sunnyside",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
