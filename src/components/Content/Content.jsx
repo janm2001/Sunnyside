@@ -8,7 +8,7 @@ import glass from '../../assets/images/desktop/image-stand-out.jpg'
 const Content = () => {
   return (
     <>
-        <Grid container>
+        <Grid container className={styles.container}>
   
       <Grid item xs={12} md={6} className={styles.text}>
         <h2 className={styles.title}>Transform your Brand</h2>
